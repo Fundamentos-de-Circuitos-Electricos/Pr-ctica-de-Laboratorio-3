@@ -81,6 +81,8 @@ Y obtenemos los resultados con el margen de error de los resultados analíticos 
 
 5. VIDEO
 
+https://youtu.be/md0nat73Qbg
+
 6. CONCLUSIONES
 
 - Las leyes de kirchhoff son una herramienta que nos permiten analizar los circuitos eléctricos por nodos y existen otros métodos importantes, pero que son usados de acuerdo a nuestras necesidades.
