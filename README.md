@@ -56,6 +56,8 @@ III. Conectar el circuito en base al diagrama de conexión.
 
 IV. Procedemos a medir la corriente de cada malla del circuito. Utilizamos como instrumento de medida un amperimetro.
 
+![image](https://user-images.githubusercontent.com/85137398/122510145-b3b10b80-cfca-11eb-837c-e0837d1314a1.png)
+
 A continuacion calculamos los valores teóricos de voltaje en los nodos del circuitos para completar la siguiente tabla.
 
 4. RESPUESTAS A INTERROGANTES Y CÁLCULO DEL ERROR
