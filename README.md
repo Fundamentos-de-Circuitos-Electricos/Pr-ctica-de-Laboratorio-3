@@ -83,4 +83,10 @@ Y obtenemos los resultados con el margen de error de los resultados analíticos 
 
 6. CONCLUSIONES
 
+- Las leyes de kirchhoff son una herramienta que nos permiten analizar los circuitos eléctricos por nodos y existen otros métodos importantes, pero que son usados de acuerdo a nuestras necesidades.
+
+- El orden es de gran prioridad en la resolución  de análisis de nodos puesto que al no tener una buena organización los valores podrían variar y salir incorrectos.
+
 7. BIBLIOGRAFÍA
+
+- SENSORICX. (13 de Abril de 2015). Analisis de Nodos. Obtenido de https://sensoricx.com/circuitos-electricos-dc/analisis-de-circuitos-empleando-nodos/
