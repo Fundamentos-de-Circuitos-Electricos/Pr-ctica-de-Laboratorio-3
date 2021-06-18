@@ -64,9 +64,20 @@ A continuacion calculamos los valores teóricos de voltaje en los nodos del circ
 
 4. RESPUESTAS A INTERROGANTES Y CÁLCULO DEL ERROR
 
+Calculamos el voltaje de los nodos, representando la intensidad en función del voltaje y la resistencia, por lo que tenemos el siguiente análisis:
+
+![image](https://user-images.githubusercontent.com/84390820/122517501-b7965b00-cfd5-11eb-8245-56bbd813973a.png)
+
+Podemos ver que VB = 2.64 V y VC = 4.98 V
+
 Para calcular el porcentaje de error de las mediciones, se tiene en cuenta la siguiente fórmula:
 
 ![image](https://user-images.githubusercontent.com/85137398/122509386-5072a980-cfc9-11eb-9ac6-47686205055b.png)
+
+Y obtenemos los resultados con el margen de error de los resultados analíticos y los resulados simulados:
+
+![image](https://user-images.githubusercontent.com/84390820/122518450-d34e3100-cfd6-11eb-803e-9c6612b5617e.png)
+
 
 5. VIDEO
 
