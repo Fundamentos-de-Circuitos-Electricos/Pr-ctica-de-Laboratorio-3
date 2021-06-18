@@ -18,6 +18,8 @@
 
 2. MARCO TEORICO
 
+![image](https://user-images.githubusercontent.com/85137398/122514798-22459780-cfd2-11eb-9fdd-a107aeb27201.png)
+
 3. EXPLICACIÓN DEL PROCESO
 
 - Material y equipo requerido
