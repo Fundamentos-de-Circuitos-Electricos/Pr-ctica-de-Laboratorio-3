@@ -6,14 +6,14 @@
 
 *General* 
 
-- Aplicar el metodo de nodos para determinar los voltajes presentes en un circuito electrico y asi poder emplear esta tecnica en el calculo de las caidas de tension presntes en redes que contengan multiples nodos.
+- Aplicar el metodo de nodos para determinar los voltajes presentes en un circuito eléctrico y asi poder emplear esta técnica en el cálculo de las caidas de tensión presntes en redes que contengan míltiples nodos.
 
 *Especificos*
 
-- Aplicar todo los conceptos teoricos basados en las leyes de kirchhoff, para obtener las caidas de tension en los nodos y anotar los valor analiticos en la tabla de comparacion.
+- Aplicar todo los conceptos teóricos basados en las leyes de Kirchhoff, para obtener las caídas de tensión en los nodos y anotar los valor analíticos en la tabla de comparasión.
 
-- Usar el voltimetro para medir los voltajes en cada uno de los nodos del circuito y asi obtener los valores medidos y poder compararlos con los valores calculados.
+- Usar el voltímetro para medir los voltajes en cada uno de los nodos del circuito y asi obtener los valores medidos y poder compararlos con los valores calculados.
 
-- Experimentar de manera directa todo el funcionamiento de los nodos en el circuito electrico y comprender como se aplican todas las leyes y propiedades de Kirchhoff.
+- Experimentar de manera directa todo el funcionamiento de los nodos en el circuito eléctrico y comprender como se aplican todas las leyes y propiedades de Kirchhoff.
 
 
