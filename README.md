@@ -14,6 +14,6 @@
 
 - Usar el voltímetro para medir los voltajes en cada uno de los nodos del circuito y asi obtener los valores medidos y poder compararlos con los valores calculados.
 
-- Experimentar de manera directa todo el funcionamiento de los nodos en el circuito eléctrico y comprender como se aplican todas las leyes y propiedades de Kirchhoff.
+- Experimentar de manera directa todo el funcionamiento de los nodos en el circuito eléctrico y comprender como se aplican todas las leyes y propiedades de Kirchhof.
 
 
